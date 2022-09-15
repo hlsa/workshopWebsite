@@ -4,8 +4,8 @@ title: Another page
 description: This is just another page
 ---
 
-## Welcome to another page
+## Program
 
-_yay_
+Program goes here
 
 [back](./)
